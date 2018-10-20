@@ -1,0 +1,2926 @@
+<file>
+<key idf='5.322' name='aah' >
+	<document id='2' freq='4' weghit='21.288'></document>
+</key>
+<key idf='5.322' name='absolut' >
+	<document id='17' freq='1' weghit='5.322'></document>
+</key>
+<key idf='4.322' name='actual' >
+	<document id='8' freq='1' weghit='4.322'></document>
+	<document id='9' freq='1' weghit='4.322'></document>
+</key>
+<key idf='5.322' name='ad' >
+	<document id='4' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='again' >
+	<document id='2' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='agoni' >
+	<document id='9' freq='2' weghit='10.644'></document>
+</key>
+<key idf='5.322' name='ah' >
+	<document id='11' freq='1' weghit='5.322'></document>
+</key>
+<key idf='3.737' name='ain' >
+	<document id='1' freq='1' weghit='3.737'></document>
+	<document id='3' freq='1' weghit='3.737'></document>
+	<document id='4' freq='1' weghit='3.737'></document>
+</key>
+<key idf='3.322' name='air' >
+	<document id='6' freq='3' weghit='9.966'></document>
+	<document id='10' freq='2' weghit='6.644'></document>
+	<document id='12' freq='1' weghit='3.322'></document>
+	<document id='15' freq='1' weghit='3.322'></document>
+</key>
+<key idf='5.322' name='aliv' >
+	<document id='5' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='alright' >
+	<document id='1' freq='4' weghit='21.288'></document>
+</key>
+<key idf='5.322' name='ancient' >
+	<document id='17' freq='1' weghit='5.322'></document>
+</key>
+<key idf='3.322' name='anymor' >
+	<document id='3' freq='7' weghit='23.254'></document>
+	<document id='7' freq='1' weghit='3.322'></document>
+	<document id='9' freq='1' weghit='3.322'></document>
+	<document id='12' freq='1' weghit='3.322'></document>
+</key>
+<key idf='4.322' name='apart' >
+	<document id='3' freq='3' weghit='12.966'></document>
+	<document id='10' freq='2' weghit='8.644'></document>
+</key>
+<key idf='5.322' name='arendel' >
+	<document id='17' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='arrang' >
+	<document id='8' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='art' >
+	<document id='17' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='ask' >
+	<document id='7' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='assum' >
+	<document id='13' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='athlet' >
+	<document id='15' freq='1' weghit='5.322'></document>
+</key>
+<key idf='3.0' name='awai' >
+	<document id='4' freq='2' weghit='6.0'></document>
+	<document id='5' freq='2' weghit='6.0'></document>
+	<document id='7' freq='1' weghit='3.0'></document>
+	<document id='11' freq='1' weghit='3.0'></document>
+	<document id='12' freq='1' weghit='3.0'></document>
+</key>
+<key idf='5.322' name='awhil' >
+	<document id='19' freq='1' weghit='5.322'></document>
+</key>
+<key idf='3.322' name='babi' >
+	<document id='0' freq='3' weghit='9.966'></document>
+	<document id='1' freq='2' weghit='6.644'></document>
+	<document id='6' freq='2' weghit='6.644'></document>
+	<document id='18' freq='1' weghit='3.322'></document>
+</key>
+<key idf='3.322' name='bad' >
+	<document id='8' freq='1' weghit='3.322'></document>
+	<document id='15' freq='1' weghit='3.322'></document>
+	<document id='16' freq='1' weghit='3.322'></document>
+	<document id='17' freq='1' weghit='3.322'></document>
+</key>
+<key idf='5.322' name='bah' >
+	<document id='11' freq='5' weghit='26.61'></document>
+</key>
+<key idf='5.322' name='ball' >
+	<document id='9' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='ballroom' >
+	<document id='9' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='bare' >
+	<document id='5' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='barn' >
+	<document id='15' freq='1' weghit='5.322'></document>
+</key>
+<key idf='3.737' name='beat' >
+	<document id='8' freq='1' weghit='3.737'></document>
+	<document id='16' freq='1' weghit='3.737'></document>
+	<document id='17' freq='1' weghit='3.737'></document>
+</key>
+<key idf='3.737' name='beauti' >
+	<document id='0' freq='1' weghit='3.737'></document>
+	<document id='9' freq='1' weghit='3.737'></document>
+	<document id='10' freq='3' weghit='11.211'></document>
+</key>
+<key idf='5.322' name='bee' >
+	<document id='11' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='beg' >
+	<document id='4' freq='4' weghit='21.288'></document>
+</key>
+<key idf='5.322' name='began' >
+	<document id='2' freq='3' weghit='15.966'></document>
+</key>
+<key idf='5.322' name='believ' >
+	<document id='13' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='bell' >
+	<document id='17' freq='2' weghit='10.644'></document>
+</key>
+<key idf='3.322' name='best' >
+	<document id='4' freq='4' weghit='13.288'></document>
+	<document id='7' freq='1' weghit='3.322'></document>
+	<document id='8' freq='2' weghit='6.644'></document>
+	<document id='13' freq='1' weghit='3.322'></document>
+</key>
+<key idf='3.737' name='better' >
+	<document id='2' freq='2' weghit='7.474'></document>
+	<document id='16' freq='2' weghit='7.474'></document>
+	<document id='18' freq='2' weghit='7.474'></document>
+</key>
+<key idf='5.322' name='betwixt' >
+	<document id='8' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='bewar' >
+	<document id='10' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='big' >
+	<document id='18' freq='2' weghit='10.644'></document>
+</key>
+<key idf='5.322' name='bigger' >
+	<document id='2' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='bike' >
+	<document id='7' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='bill' >
+	<document id='1' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='bird' >
+	<document id='0' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='bit' >
+	<document id='8' freq='10' weghit='53.22'></document>
+</key>
+<key idf='5.322' name='bite' >
+	<document id='16' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='bittersweet' >
+	<document id='4' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='bizarr' >
+	<document id='9' freq='1' weghit='5.322'></document>
+</key>
+<key idf='4.322' name='blast' >
+	<document id='12' freq='1' weghit='4.322'></document>
+	<document id='17' freq='1' weghit='4.322'></document>
+</key>
+<key idf='5.322' name='bleak' >
+	<document id='17' freq='3' weghit='15.966'></document>
+</key>
+<key idf='5.322' name='blink' >
+	<document id='5' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='blond' >
+	<document id='8' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='bloom' >
+	<document id='17' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='blow' >
+	<document id='11' freq='2' weghit='10.644'></document>
+</key>
+<key idf='4.322' name='blue' >
+	<document id='4' freq='2' weghit='8.644'></document>
+	<document id='11' freq='1' weghit='4.322'></document>
+</key>
+<key idf='5.322' name='bomb' >
+	<document id='5' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='bond' >
+	<document id='2' freq='2' weghit='10.644'></document>
+</key>
+<key idf='5.322' name='boo' >
+	<document id='11' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='book' >
+	<document id='19' freq='1' weghit='5.322'></document>
+</key>
+<key idf='3.737' name='born' >
+	<document id='4' freq='1' weghit='3.737'></document>
+	<document id='10' freq='2' weghit='7.474'></document>
+	<document id='15' freq='2' weghit='7.474'></document>
+</key>
+<key idf='5.322' name='bother' >
+	<document id='12' freq='2' weghit='10.644'></document>
+</key>
+<key idf='5.322' name='bound' >
+	<document id='4' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='bout' >
+	<document id='2' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='brain' >
+	<document id='8' freq='2' weghit='10.644'></document>
+</key>
+<key idf='3.737' name='break' >
+	<document id='3' freq='3' weghit='11.211'></document>
+	<document id='10' freq='1' weghit='3.737'></document>
+	<document id='12' freq='2' weghit='7.474'></document>
+</key>
+<key idf='5.322' name='breath' >
+	<document id='6' freq='6' weghit='31.932'></document>
+</key>
+<key idf='5.322' name='breez' >
+	<document id='11' freq='1' weghit='5.322'></document>
+</key>
+<key idf='4.322' name='bring' >
+	<document id='0' freq='2' weghit='8.644'></document>
+	<document id='8' freq='2' weghit='8.644'></document>
+</key>
+<key idf='5.322' name='broken' >
+	<document id='2' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='brother' >
+	<document id='8' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='brotherhood' >
+	<document id='2' freq='1' weghit='5.322'></document>
+</key>
+<key idf='4.322' name='buddi' >
+	<document id='7' freq='1' weghit='4.322'></document>
+	<document id='11' freq='1' weghit='4.322'></document>
+</key>
+<key idf='5.322' name='bug' >
+	<document id='8' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='build' >
+	<document id='7' freq='4' weghit='21.288'></document>
+</key>
+<key idf='5.322' name='bulda' >
+	<document id='8' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='bump' >
+	<document id='14' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='burn' >
+	<document id='11' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='button' >
+	<document id='15' freq='7' weghit='37.254'></document>
+</key>
+<key idf='5.322' name='buzz' >
+	<document id='11' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='bye' >
+	<document id='13' freq='2' weghit='10.644'></document>
+</key>
+<key idf='5.322' name='cage' >
+	<document id='13' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='california' >
+	<document id='3' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='call' >
+	<document id='3' freq='3' weghit='15.966'></document>
+</key>
+<key idf='5.322' name='calm' >
+	<document id='18' freq='1' weghit='5.322'></document>
+</key>
+<key idf='3.737' name='came' >
+	<document id='2' freq='1' weghit='3.737'></document>
+	<document id='4' freq='1' weghit='3.737'></document>
+	<document id='13' freq='1' weghit='3.737'></document>
+</key>
+<key idf='5.322' name='candl' >
+	<document id='6' freq='2' weghit='10.644'></document>
+</key>
+<key idf='5.322' name='car' >
+	<document id='1' freq='1' weghit='5.322'></document>
+</key>
+<key idf='3.0' name='care' >
+	<document id='4' freq='1' weghit='3.0'></document>
+	<document id='12' freq='1' weghit='3.0'></document>
+	<document id='13' freq='1' weghit='3.0'></document>
+	<document id='15' freq='1' weghit='3.0'></document>
+	<document id='18' freq='1' weghit='3.0'></document>
+</key>
+<key idf='5.322' name='caress' >
+	<document id='5' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='case' >
+	<document id='15' freq='1' weghit='5.322'></document>
+</key>
+<key idf='2.737' name='caus' >
+	<document id='1' freq='2' weghit='5.474'></document>
+	<document id='8' freq='1' weghit='2.737'></document>
+	<document id='9' freq='4' weghit='10.948'></document>
+	<document id='13' freq='4' weghit='10.948'></document>
+	<document id='14' freq='1' weghit='2.737'></document>
+	<document id='17' freq='1' weghit='2.737'></document>
+</key>
+<key idf='4.322' name='celebr' >
+	<document id='13' freq='1' weghit='4.322'></document>
+	<document id='17' freq='2' weghit='8.644'></document>
+</key>
+<key idf='5.322' name='centerfold' >
+	<document id='0' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='certain' >
+	<document id='8' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='champang' >
+	<document id='1' freq='1' weghit='5.322'></document>
+</key>
+<key idf='4.322' name='chanc' >
+	<document id='9' freq='3' weghit='12.966'></document>
+	<document id='15' freq='1' weghit='4.322'></document>
+</key>
+<key idf='4.322' name='chang' >
+	<document id='8' freq='2' weghit='8.644'></document>
+	<document id='9' freq='2' weghit='8.644'></document>
+</key>
+<key idf='5.322' name='chapel' >
+	<document id='17' freq='2' weghit='10.644'></document>
+</key>
+<key idf='5.322' name='charm' >
+	<document id='18' freq='1' weghit='5.322'></document>
+</key>
+<key idf='4.322' name='cheat' >
+	<document id='16' freq='1' weghit='4.322'></document>
+	<document id='19' freq='1' weghit='4.322'></document>
+</key>
+<key idf='5.322' name='child' >
+	<document id='5' freq='1' weghit='5.322'></document>
+</key>
+<key idf='4.322' name='chocol' >
+	<document id='9' freq='1' weghit='4.322'></document>
+	<document id='14' freq='1' weghit='4.322'></document>
+</key>
+<key idf='5.322' name='choic' >
+	<document id='8' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='chorusit' >
+	<document id='0' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='clap' >
+	<document id='18' freq='2' weghit='10.644'></document>
+</key>
+<key idf='5.322' name='clear' >
+	<document id='10' freq='2' weghit='10.644'></document>
+</key>
+<key idf='5.322' name='clearli' >
+	<document id='3' freq='3' weghit='15.966'></document>
+</key>
+<key idf='5.322' name='climb' >
+	<document id='18' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='close' >
+	<document id='11' freq='1' weghit='5.322'></document>
+</key>
+<key idf='4.322' name='cloth' >
+	<document id='18' freq='1' weghit='4.322'></document>
+	<document id='19' freq='1' weghit='4.322'></document>
+</key>
+<key idf='5.322' name='clumpi' >
+	<document id='8' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='coat' >
+	<document id='15' freq='1' weghit='5.322'></document>
+</key>
+<key idf='3.322' name='cold' >
+	<document id='10' freq='5' weghit='16.61'></document>
+	<document id='11' freq='1' weghit='3.322'></document>
+	<document id='12' freq='2' weghit='6.644'></document>
+	<document id='17' freq='3' weghit='9.966'></document>
+</key>
+<key idf='5.322' name='coldli' >
+	<document id='13' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='combin' >
+	<document id='10' freq='2' weghit='10.644'></document>
+</key>
+<key idf='1.862' name='come' >
+	<document id='1' freq='1' weghit='1.862'></document>
+	<document id='2' freq='4' weghit='7.448'></document>
+	<document id='6' freq='3' weghit='5.586'></document>
+	<document id='7' freq='2' weghit='3.724'></document>
+	<document id='8' freq='1' weghit='1.862'></document>
+	<document id='11' freq='1' weghit='1.862'></document>
+	<document id='13' freq='2' weghit='3.724'></document>
+	<document id='15' freq='1' weghit='1.862'></document>
+	<document id='17' freq='3' weghit='5.586'></document>
+	<document id='18' freq='1' weghit='1.862'></document>
+	<document id='19' freq='1' weghit='1.862'></document>
+</key>
+<key idf='5.322' name='comedi' >
+	<document id='17' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='compani' >
+	<document id='7' freq='1' weghit='5.322'></document>
+</key>
+<key idf='4.322' name='compar' >
+	<document id='4' freq='1' weghit='4.322'></document>
+	<document id='15' freq='1' weghit='4.322'></document>
+</key>
+<key idf='4.322' name='conceal' >
+	<document id='9' freq='3' weghit='12.966'></document>
+	<document id='12' freq='1' weghit='4.322'></document>
+</key>
+<key idf='5.322' name='confid' >
+	<document id='17' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='confirm' >
+	<document id='8' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='conscienc' >
+	<document id='5' freq='1' weghit='5.322'></document>
+</key>
+<key idf='3.737' name='control' >
+	<document id='6' freq='2' weghit='7.474'></document>
+	<document id='10' freq='1' weghit='3.737'></document>
+	<document id='12' freq='1' weghit='3.737'></document>
+</key>
+<key idf='5.322' name='convinc' >
+	<document id='13' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='cool' >
+	<document id='18' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='cooler' >
+	<document id='11' freq='1' weghit='5.322'></document>
+</key>
+<key idf='3.737' name='couldn' >
+	<document id='1' freq='1' weghit='3.737'></document>
+	<document id='4' freq='4' weghit='14.948'></document>
+	<document id='12' freq='1' weghit='3.737'></document>
+</key>
+<key idf='5.322' name='coupl' >
+	<document id='8' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='courag' >
+	<document id='7' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='cours' >
+	<document id='15' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='court' >
+	<document id='13' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='cover' >
+	<document id='8' freq='1' weghit='5.322'></document>
+</key>
+<key idf='4.322' name='crazi' >
+	<document id='9' freq='1' weghit='4.322'></document>
+	<document id='14' freq='4' weghit='17.288'></document>
+</key>
+<key idf='5.322' name='crazier' >
+	<document id='14' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='cross' >
+	<document id='2' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='crown' >
+	<document id='18' freq='2' weghit='10.644'></document>
+</key>
+<key idf='5.322' name='crystal' >
+	<document id='12' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='cuddl' >
+	<document id='11' freq='1' weghit='5.322'></document>
+</key>
+<key idf='4.322' name='curs' >
+	<document id='16' freq='1' weghit='4.322'></document>
+	<document id='17' freq='2' weghit='8.644'></document>
+</key>
+<key idf='5.322' name='curv' >
+	<document id='6' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='cut' >
+	<document id='10' freq='2' weghit='10.644'></document>
+</key>
+<key idf='5.322' name='cuz' >
+	<document id='5' freq='2' weghit='10.644'></document>
+</key>
+<key idf='5.322' name='da' >
+	<document id='11' freq='3' weghit='15.966'></document>
+</key>
+<key idf='5.322' name='dad' >
+	<document id='11' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='dada' >
+	<document id='11' freq='1' weghit='5.322'></document>
+</key>
+<key idf='3.0' name='dai' >
+	<document id='1' freq='1' weghit='3.0'></document>
+	<document id='2' freq='3' weghit='9.0'></document>
+	<document id='4' freq='1' weghit='3.0'></document>
+	<document id='5' freq='2' weghit='6.0'></document>
+	<document id='12' freq='1' weghit='3.0'></document>
+</key>
+<key idf='5.322' name='dais' >
+	<document id='2' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='damn' >
+	<document id='2' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='danc' >
+	<document id='9' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='dancini' >
+	<document id='1' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='dandelion' >
+	<document id='11' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='danger' >
+	<document id='10' freq='2' weghit='10.644'></document>
+</key>
+<key idf='5.322' name='dare' >
+	<document id='11' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='dark' >
+	<document id='17' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='dawn' >
+	<document id='12' freq='1' weghit='5.322'></document>
+</key>
+<key idf='4.322' name='dear' >
+	<document id='5' freq='1' weghit='4.322'></document>
+	<document id='8' freq='3' weghit='12.966'></document>
+</key>
+<key idf='5.322' name='deep' >
+	<document id='5' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='deserv' >
+	<document id='15' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='desper' >
+	<document id='8' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='destroi' >
+	<document id='5' freq='1' weghit='5.322'></document>
+</key>
+<key idf='3.737' name='did' >
+	<document id='3' freq='1' weghit='3.737'></document>
+	<document id='9' freq='1' weghit='3.737'></document>
+	<document id='13' freq='1' weghit='3.737'></document>
+</key>
+<key idf='4.322' name='didn' >
+	<document id='4' freq='1' weghit='4.322'></document>
+	<document id='9' freq='1' weghit='4.322'></document>
+</key>
+<key idf='4.322' name='differ' >
+	<document id='2' freq='1' weghit='4.322'></document>
+	<document id='3' freq='1' weghit='4.322'></document>
+</key>
+<key idf='5.322' name='ding' >
+	<document id='17' freq='4' weghit='21.288'></document>
+</key>
+<key idf='4.322' name='distanc' >
+	<document id='12' freq='1' weghit='4.322'></document>
+	<document id='18' freq='1' weghit='4.322'></document>
+</key>
+<key idf='4.322' name='do' >
+	<document id='0' freq='11' weghit='47.542'></document>
+	<document id='7' freq='1' weghit='4.322'></document>
+</key>
+<key idf='3.737' name='doe' >
+	<document id='11' freq='2' weghit='7.474'></document>
+	<document id='13' freq='1' weghit='3.737'></document>
+	<document id='17' freq='1' weghit='3.737'></document>
+</key>
+<key idf='3.0' name='doesn' >
+	<document id='3' freq='3' weghit='9.0'></document>
+	<document id='7' freq='1' weghit='3.0'></document>
+	<document id='15' freq='1' weghit='3.0'></document>
+	<document id='18' freq='3' weghit='9.0'></document>
+	<document id='19' freq='1' weghit='3.0'></document>
+</key>
+<key idf='5.322' name='doin' >
+	<document id='11' freq='1' weghit='5.322'></document>
+</key>
+<key idf='1.515' name='don' >
+	<document id='0' freq='5' weghit='7.575'></document>
+	<document id='3' freq='3' weghit='4.545'></document>
+	<document id='4' freq='4' weghit='6.06'></document>
+	<document id='6' freq='2' weghit='3.03'></document>
+	<document id='8' freq='2' weghit='3.03'></document>
+	<document id='9' freq='8' weghit='12.12'></document>
+	<document id='11' freq='2' weghit='3.03'></document>
+	<document id='12' freq='5' weghit='7.575'></document>
+	<document id='13' freq='5' weghit='7.575'></document>
+	<document id='14' freq='1' weghit='1.515'></document>
+	<document id='15' freq='3' weghit='4.545'></document>
+	<document id='16' freq='3' weghit='4.545'></document>
+	<document id='18' freq='1' weghit='1.515'></document>
+	<document id='19' freq='1' weghit='1.515'></document>
+</key>
+<key idf='5.322' name='dong' >
+	<document id='17' freq='4' weghit='21.288'></document>
+</key>
+<key idf='5.322' name='doo' >
+	<document id='11' freq='2' weghit='10.644'></document>
+</key>
+<key idf='2.737' name='door' >
+	<document id='7' freq='1' weghit='2.737'></document>
+	<document id='9' freq='1' weghit='2.737'></document>
+	<document id='12' freq='1' weghit='2.737'></document>
+	<document id='13' freq='1' weghit='2.737'></document>
+	<document id='14' freq='8' weghit='21.896'></document>
+	<document id='15' freq='1' weghit='2.737'></document>
+</key>
+<key idf='5.322' name='doubt' >
+	<document id='5' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='drape' >
+	<document id='9' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='drawn' >
+	<document id='2' freq='1' weghit='5.322'></document>
+</key>
+<key idf='2.515' name='dream' >
+	<document id='1' freq='1' weghit='2.515'></document>
+	<document id='3' freq='1' weghit='2.515'></document>
+	<document id='4' freq='1' weghit='2.515'></document>
+	<document id='5' freq='1' weghit='2.515'></document>
+	<document id='6' freq='1' weghit='2.515'></document>
+	<document id='9' freq='2' weghit='5.03'></document>
+	<document id='11' freq='1' weghit='2.515'></document>
+</key>
+<key idf='5.322' name='drink' >
+	<document id='11' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='drop' >
+	<document id='5' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='duper' >
+	<document id='18' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='earth' >
+	<document id='17' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='eat' >
+	<document id='18' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='elat' >
+	<document id='9' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='elsa' >
+	<document id='17' freq='1' weghit='5.322'></document>
+</key>
+<key idf='4.322' name='em' >
+	<document id='11' freq='1' weghit='4.322'></document>
+	<document id='16' freq='1' weghit='4.322'></document>
+</key>
+<key idf='3.322' name='end' >
+	<document id='5' freq='1' weghit='3.322'></document>
+	<document id='8' freq='1' weghit='3.322'></document>
+	<document id='9' freq='1' weghit='3.322'></document>
+	<document id='13' freq='1' weghit='3.322'></document>
+</key>
+<key idf='5.322' name='engag' >
+	<document id='8' freq='2' weghit='10.644'></document>
+</key>
+<key idf='5.322' name='establish' >
+	<document id='2' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='even' >
+	<document id='9' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='everi' >
+	<document id='5' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='exant' >
+	<document id='17' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='expect' >
+	<document id='18' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='experi' >
+	<document id='11' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='explan' >
+	<document id='14' freq='1' weghit='5.322'></document>
+</key>
+<key idf='4.322' name='extra' >
+	<document id='15' freq='1' weghit='4.322'></document>
+	<document id='17' freq='1' weghit='4.322'></document>
+</key>
+<key idf='4.322' name='ey' >
+	<document id='5' freq='1' weghit='4.322'></document>
+	<document id='11' freq='1' weghit='4.322'></document>
+</key>
+<key idf='2.737' name='face' >
+	<document id='4' freq='2' weghit='5.474'></document>
+	<document id='9' freq='1' weghit='2.737'></document>
+	<document id='13' freq='1' weghit='2.737'></document>
+	<document id='14' freq='2' weghit='5.474'></document>
+	<document id='15' freq='1' weghit='2.737'></document>
+	<document id='19' freq='1' weghit='2.737'></document>
+</key>
+<key idf='3.737' name='fair' >
+	<document id='9' freq='1' weghit='3.737'></document>
+	<document id='10' freq='2' weghit='7.474'></document>
+	<document id='18' freq='1' weghit='3.737'></document>
+</key>
+<key idf='3.737' name='fall' >
+	<document id='6' freq='3' weghit='11.211'></document>
+	<document id='13' freq='1' weghit='3.737'></document>
+	<document id='15' freq='1' weghit='3.737'></document>
+</key>
+<key idf='4.322' name='famili' >
+	<document id='2' freq='4' weghit='17.288'></document>
+	<document id='13' freq='1' weghit='4.322'></document>
+</key>
+<key idf='5.322' name='far' >
+	<document id='9' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='fate' >
+	<document id='17' freq='2' weghit='10.644'></document>
+</key>
+<key idf='3.737' name='father' >
+	<document id='5' freq='1' weghit='3.737'></document>
+	<document id='8' freq='1' weghit='3.737'></document>
+	<document id='18' freq='1' weghit='3.737'></document>
+</key>
+<key idf='4.322' name='fear' >
+	<document id='10' freq='2' weghit='8.644'></document>
+	<document id='12' freq='1' weghit='4.322'></document>
+</key>
+<key idf='5.322' name='fearsi' >
+	<document id='5' freq='1' weghit='5.322'></document>
+</key>
+<key idf='2.322' name='feel' >
+	<document id='2' freq='1' weghit='2.322'></document>
+	<document id='5' freq='1' weghit='2.322'></document>
+	<document id='9' freq='2' weghit='4.644'></document>
+	<document id='12' freq='1' weghit='2.322'></document>
+	<document id='13' freq='2' weghit='4.644'></document>
+	<document id='14' freq='1' weghit='2.322'></document>
+	<document id='15' freq='1' weghit='2.322'></document>
+	<document id='19' freq='1' weghit='2.322'></document>
+</key>
+<key idf='4.322' name='feet' >
+	<document id='3' freq='1' weghit='4.322'></document>
+	<document id='8' freq='1' weghit='4.322'></document>
+</key>
+<key idf='5.322' name='fel' >
+	<document id='3' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='fell' >
+	<document id='3' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='fellow' >
+	<document id='8' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='femal' >
+	<document id='8' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='fetchingli' >
+	<document id='9' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='fianc' >
+	<document id='8' freq='1' weghit='5.322'></document>
+</key>
+<key idf='3.737' name='fight' >
+	<document id='0' freq='1' weghit='3.737'></document>
+	<document id='4' freq='2' weghit='7.474'></document>
+	<document id='18' freq='1' weghit='3.737'></document>
+</key>
+<key idf='3.737' name='final' >
+	<document id='5' freq='1' weghit='3.737'></document>
+	<document id='9' freq='1' weghit='3.737'></document>
+	<document id='11' freq='2' weghit='7.474'></document>
+</key>
+<key idf='5.322' name='fine' >
+	<document id='1' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='finish' >
+	<document id='14' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='fix' >
+	<document id='8' freq='5' weghit='26.61'></document>
+</key>
+<key idf='5.322' name='fixer' >
+	<document id='8' freq='13' weghit='69.186'></document>
+</key>
+<key idf='5.322' name='fjord' >
+	<document id='13' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='flaw' >
+	<document id='8' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='flew' >
+	<document id='2' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='flex' >
+	<document id='8' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='fli' >
+	<document id='4' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='flower' >
+	<document id='17' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='flurri' >
+	<document id='12' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='fly' >
+	<document id='15' freq='2' weghit='10.644'></document>
+</key>
+<key idf='5.322' name='fond' >
+	<document id='8' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='fondu' >
+	<document id='14' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='fool' >
+	<document id='13' freq='2' weghit='10.644'></document>
+</key>
+<key idf='5.322' name='footprint' >
+	<document id='12' freq='1' weghit='5.322'></document>
+</key>
+<key idf='3.737' name='forc' >
+	<document id='8' freq='1' weghit='3.737'></document>
+	<document id='10' freq='2' weghit='7.474'></document>
+	<document id='13' freq='1' weghit='3.737'></document>
+</key>
+<key idf='3.737' name='forev' >
+	<document id='2' freq='1' weghit='3.737'></document>
+	<document id='9' freq='9' weghit='33.633'></document>
+	<document id='15' freq='1' weghit='3.737'></document>
+</key>
+<key idf='4.322' name='forget' >
+	<document id='4' freq='4' weghit='17.288'></document>
+	<document id='13' freq='2' weghit='8.644'></document>
+</key>
+<key idf='5.322' name='forgotten' >
+	<document id='3' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='foul' >
+	<document id='10' freq='2' weghit='10.644'></document>
+</key>
+<key idf='5.322' name='fractal' >
+	<document id='12' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='freckl' >
+	<document id='19' freq='1' weghit='5.322'></document>
+</key>
+<key idf='3.322' name='free' >
+	<document id='3' freq='1' weghit='3.322'></document>
+	<document id='5' freq='4' weghit='13.288'></document>
+	<document id='12' freq='1' weghit='3.322'></document>
+	<document id='13' freq='1' weghit='3.322'></document>
+</key>
+<key idf='5.322' name='freed' >
+	<document id='17' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='freez' >
+	<document id='18' freq='3' weghit='15.966'></document>
+</key>
+<key idf='5.322' name='freezs' >
+	<document id='18' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='fresh' >
+	<document id='13' freq='1' weghit='5.322'></document>
+</key>
+<key idf='3.737' name='friend' >
+	<document id='2' freq='3' weghit='11.211'></document>
+	<document id='4' freq='1' weghit='3.737'></document>
+	<document id='13' freq='1' weghit='3.737'></document>
+</key>
+<key idf='5.322' name='friendship' >
+	<document id='2' freq='2' weghit='10.644'></document>
+</key>
+<key idf='5.322' name='frilli' >
+	<document id='18' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='frostbit' >
+	<document id='16' freq='1' weghit='5.322'></document>
+</key>
+<key idf='3.0' name='frozen' >
+	<document id='10' freq='4' weghit='12.0'></document>
+	<document id='11' freq='1' weghit='3.0'></document>
+	<document id='12' freq='1' weghit='3.0'></document>
+	<document id='13' freq='1' weghit='3.0'></document>
+	<document id='17' freq='2' weghit='6.0'></document>
+</key>
+<key idf='4.322' name='fun' >
+	<document id='9' freq='1' weghit='4.322'></document>
+	<document id='15' freq='1' weghit='4.322'></document>
+</key>
+<key idf='5.322' name='funni' >
+	<document id='12' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='futur' >
+	<document id='17' freq='3' weghit='15.966'></document>
+</key>
+<key idf='5.322' name='fuzz' >
+	<document id='11' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='gasp' >
+	<document id='9' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='gassi' >
+	<document id='9' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='gate' >
+	<document id='9' freq='3' weghit='15.966'></document>
+</key>
+<key idf='5.322' name='gave' >
+	<document id='4' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='gee' >
+	<document id='13' freq='1' weghit='5.322'></document>
+</key>
+<key idf='3.322' name='get' >
+	<document id='7' freq='1' weghit='3.322'></document>
+	<document id='8' freq='1' weghit='3.322'></document>
+	<document id='9' freq='1' weghit='3.322'></document>
+	<document id='11' freq='3' weghit='9.966'></document>
+</key>
+<key idf='2.737' name='girl' >
+	<document id='4' freq='1' weghit='2.737'></document>
+	<document id='9' freq='2' weghit='5.474'></document>
+	<document id='12' freq='2' weghit='5.474'></document>
+	<document id='15' freq='1' weghit='2.737'></document>
+	<document id='18' freq='1' weghit='2.737'></document>
+	<document id='19' freq='1' weghit='2.737'></document>
+</key>
+<key idf='5.322' name='give' >
+	<document id='0' freq='1' weghit='5.322'></document>
+</key>
+<key idf='4.322' name='glad' >
+	<document id='13' freq='1' weghit='4.322'></document>
+	<document id='17' freq='1' weghit='4.322'></document>
+</key>
+<key idf='5.322' name='glori' >
+	<document id='4' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='glove' >
+	<document id='13' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='glow' >
+	<document id='12' freq='1' weghit='5.322'></document>
+</key>
+<key idf='4.322' name='go' >
+	<document id='12' freq='2' weghit='8.644'></document>
+	<document id='17' freq='1' weghit='4.322'></document>
+</key>
+<key idf='5.322' name='gon' >
+	<document id='2' freq='2' weghit='10.644'></document>
+</key>
+<key idf='3.0' name='gone' >
+	<document id='1' freq='1' weghit='3.0'></document>
+	<document id='2' freq='2' weghit='6.0'></document>
+	<document id='7' freq='1' weghit='3.0'></document>
+	<document id='12' freq='1' weghit='3.0'></document>
+	<document id='17' freq='2' weghit='6.0'></document>
+</key>
+<key idf='3.0' name='gonna' >
+	<document id='7' freq='1' weghit='3.0'></document>
+	<document id='11' freq='1' weghit='3.0'></document>
+	<document id='14' freq='1' weghit='3.0'></document>
+	<document id='15' freq='1' weghit='3.0'></document>
+	<document id='18' freq='1' weghit='3.0'></document>
+</key>
+<key idf='2.322' name='good' >
+	<document id='2' freq='1' weghit='2.322'></document>
+	<document id='6' freq='1' weghit='2.322'></document>
+	<document id='8' freq='1' weghit='2.322'></document>
+	<document id='9' freq='2' weghit='4.644'></document>
+	<document id='11' freq='1' weghit='2.322'></document>
+	<document id='12' freq='1' weghit='2.322'></document>
+	<document id='16' freq='1' weghit='2.322'></document>
+	<document id='17' freq='3' weghit='6.966'></document>
+</key>
+<key idf='5.322' name='goodby' >
+	<document id='14' freq='2' weghit='10.644'></document>
+</key>
+<key idf='5.322' name='gorgeou' >
+	<document id='17' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='gorgeous' >
+	<document id='11' freq='1' weghit='5.322'></document>
+</key>
+<key idf='3.0' name='got' >
+	<document id='1' freq='3' weghit='9.0'></document>
+	<document id='2' freq='2' weghit='6.0'></document>
+	<document id='8' freq='3' weghit='9.0'></document>
+	<document id='9' freq='1' weghit='3.0'></document>
+	<document id='19' freq='1' weghit='3.0'></document>
+</key>
+<key idf='5.322' name='gown' >
+	<document id='9' freq='1' weghit='5.322'></document>
+</key>
+<key idf='3.322' name='grace' >
+	<document id='9' freq='1' weghit='3.322'></document>
+	<document id='13' freq='1' weghit='3.322'></document>
+	<document id='15' freq='1' weghit='3.322'></document>
+	<document id='18' freq='1' weghit='3.322'></document>
+</key>
+<key idf='5.322' name='graciou' >
+	<document id='17' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='grain' >
+	<document id='5' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='great' >
+	<document id='13' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='grenad' >
+	<document id='0' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='ground' >
+	<document id='12' freq='1' weghit='5.322'></document>
+</key>
+<key idf='4.322' name='group' >
+	<document id='8' freq='1' weghit='4.322'></document>
+	<document id='17' freq='1' weghit='4.322'></document>
+</key>
+<key idf='5.322' name='grown' >
+	<document id='18' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='grumpi' >
+	<document id='8' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='guard' >
+	<document id='9' freq='1' weghit='5.322'></document>
+</key>
+<key idf='4.322' name='guess' >
+	<document id='4' freq='1' weghit='4.322'></document>
+	<document id='11' freq='1' weghit='4.322'></document>
+</key>
+<key idf='5.322' name='gui' >
+	<document id='11' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='guid' >
+	<document id='2' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='gum' >
+	<document id='17' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='hah' >
+	<document id='13' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='hair' >
+	<document id='19' freq='1' weghit='5.322'></document>
+</key>
+<key idf='4.322' name='hall' >
+	<document id='7' freq='1' weghit='4.322'></document>
+	<document id='9' freq='1' weghit='4.322'></document>
+</key>
+<key idf='5.322' name='han' >
+	<document id='19' freq='1' weghit='5.322'></document>
+</key>
+<key idf='3.322' name='hand' >
+	<document id='0' freq='1' weghit='3.322'></document>
+	<document id='5' freq='1' weghit='3.322'></document>
+	<document id='11' freq='1' weghit='3.322'></document>
+	<document id='18' freq='1' weghit='3.322'></document>
+</key>
+<key idf='5.322' name='handl' >
+	<document id='6' freq='1' weghit='5.322'></document>
+</key>
+<key idf='4.322' name='hang' >
+	<document id='7' freq='1' weghit='4.322'></document>
+	<document id='15' freq='2' weghit='8.644'></document>
+</key>
+<key idf='3.737' name='happen' >
+	<document id='3' freq='1' weghit='3.737'></document>
+	<document id='5' freq='2' weghit='7.474'></document>
+	<document id='11' freq='1' weghit='3.737'></document>
+</key>
+<key idf='5.322' name='happi' >
+	<document id='11' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='hard' >
+	<document id='2' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='hate' >
+	<document id='4' freq='2' weghit='10.644'></document>
+</key>
+<key idf='5.322' name='hawkin' >
+	<document id='1' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='haze' >
+	<document id='4' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='head' >
+	<document id='5' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='heal' >
+	<document id='3' freq='2' weghit='10.644'></document>
+</key>
+<key idf='5.322' name='hear' >
+	<document id='3' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='heard' >
+	<document id='4' freq='2' weghit='10.644'></document>
+</key>
+<key idf='2.515' name='heart' >
+	<document id='3' freq='3' weghit='7.545'></document>
+	<document id='5' freq='2' weghit='5.03'></document>
+	<document id='10' freq='6' weghit='15.09'></document>
+	<document id='13' freq='1' weghit='2.515'></document>
+	<document id='15' freq='2' weghit='5.03'></document>
+	<document id='17' freq='1' weghit='2.515'></document>
+	<document id='19' freq='1' weghit='2.515'></document>
+</key>
+<key idf='5.322' name='heat' >
+	<document id='11' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='heaven' >
+	<document id='12' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='hei' >
+	<document id='2' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='heir' >
+	<document id='15' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='hell' >
+	<document id='1' freq='1' weghit='5.322'></document>
+</key>
+<key idf='4.322' name='hello' >
+	<document id='3' freq='9' weghit='38.898'></document>
+	<document id='18' freq='1' weghit='4.322'></document>
+</key>
+<key idf='5.322' name='help' >
+	<document id='0' freq='2' weghit='10.644'></document>
+</key>
+<key idf='5.322' name='hen' >
+	<document id='2' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='hero' >
+	<document id='0' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='hide' >
+	<document id='4' freq='1' weghit='5.322'></document>
+</key>
+<key idf='4.322' name='high' >
+	<document id='3' freq='16' weghit='69.152'></document>
+	<document id='5' freq='1' weghit='4.322'></document>
+</key>
+<key idf='5.322' name='hill' >
+	<document id='13' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='hit' >
+	<document id='2' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='ho' >
+	<document id='10' freq='2' weghit='10.644'></document>
+</key>
+<key idf='3.0' name='hold' >
+	<document id='2' freq='1' weghit='3.0'></document>
+	<document id='4' freq='1' weghit='3.0'></document>
+	<document id='8' freq='2' weghit='6.0'></document>
+	<document id='11' freq='1' weghit='3.0'></document>
+	<document id='12' freq='1' weghit='3.0'></document>
+</key>
+<key idf='3.737' name='home' >
+	<document id='2' freq='2' weghit='7.474'></document>
+	<document id='3' freq='3' weghit='11.211'></document>
+	<document id='5' freq='1' weghit='3.737'></document>
+</key>
+<key idf='4.322' name='honest' >
+	<document id='8' freq='1' weghit='4.322'></document>
+	<document id='19' freq='1' weghit='4.322'></document>
+</key>
+<key idf='3.737' name='hope' >
+	<document id='3' freq='1' weghit='3.737'></document>
+	<document id='4' freq='2' weghit='7.474'></document>
+	<document id='19' freq='1' weghit='3.737'></document>
+</key>
+<key idf='5.322' name='hopelessli' >
+	<document id='15' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='hors' >
+	<document id='15' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='horssho' >
+	<document id='15' freq='3' weghit='15.966'></document>
+</key>
+<key idf='5.322' name='horsshos' >
+	<document id='15' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='hot' >
+	<document id='11' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='hour' >
+	<document id='7' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='howl' >
+	<document id='12' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='hug' >
+	<document id='8' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='huh' >
+	<document id='2' freq='1' weghit='5.322'></document>
+</key>
+<key idf='4.322' name='human' >
+	<document id='5' freq='1' weghit='4.322'></document>
+	<document id='8' freq='1' weghit='4.322'></document>
+</key>
+<key idf='4.322' name='hurt' >
+	<document id='4' freq='6' weghit='25.932'></document>
+	<document id='5' freq='1' weghit='4.322'></document>
+</key>
+<key idf='5.322' name='hyup' >
+	<document id='10' freq='3' weghit='15.966'></document>
+</key>
+<key idf='3.737' name='i' >
+	<document id='1' freq='1' weghit='3.737'></document>
+	<document id='4' freq='1' weghit='3.737'></document>
+	<document id='13' freq='1' weghit='3.737'></document>
+</key>
+<key idf='3.737' name='ic' >
+	<document id='10' freq='3' weghit='11.211'></document>
+	<document id='13' freq='1' weghit='3.737'></document>
+	<document id='17' freq='1' weghit='3.737'></document>
+</key>
+<key idf='4.322' name='ici' >
+	<document id='10' freq='2' weghit='8.644'></document>
+	<document id='12' freq='1' weghit='4.322'></document>
+</key>
+<key idf='4.322' name='idea' >
+	<document id='13' freq='2' weghit='8.644'></document>
+	<document id='18' freq='1' weghit='4.322'></document>
+</key>
+<key idf='5.322' name='ignor' >
+	<document id='15' freq='1' weghit='5.322'></document>
+</key>
+<key idf='4.322' name='imagin' >
+	<document id='9' freq='1' weghit='4.322'></document>
+	<document id='11' freq='2' weghit='8.644'></document>
+</key>
+<key idf='5.322' name='impair' >
+	<document id='8' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='inbetween' >
+	<document id='15' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='ing' >
+	<document id='9' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='insid' >
+	<document id='12' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='inst' >
+	<document id='4' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='instad' >
+	<document id='4' freq='5' weghit='26.61'></document>
+</key>
+<key idf='5.322' name='intens' >
+	<document id='11' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='invit' >
+	<document id='1' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='isn' >
+	<document id='4' freq='2' weghit='10.644'></document>
+</key>
+<key idf='4.322' name='isol' >
+	<document id='8' freq='1' weghit='4.322'></document>
+	<document id='12' freq='1' weghit='4.322'></document>
+</key>
+<key idf='5.322' name='issu' >
+	<document id='8' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='it' >
+	<document id='2' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='jinx' >
+	<document id='14' freq='2' weghit='10.644'></document>
+</key>
+<key idf='5.322' name='joan' >
+	<document id='7' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='job' >
+	<document id='1' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='joi' >
+	<document id='0' freq='2' weghit='10.644'></document>
+</key>
+<key idf='2.152' name='just' >
+	<document id='0' freq='2' weghit='4.304'></document>
+	<document id='6' freq='1' weghit='2.152'></document>
+	<document id='7' freq='3' weghit='6.456'></document>
+	<document id='8' freq='2' weghit='4.304'></document>
+	<document id='11' freq='3' weghit='6.456'></document>
+	<document id='13' freq='3' weghit='6.456'></document>
+	<document id='14' freq='2' weghit='4.304'></document>
+	<document id='15' freq='9' weghit='19.368'></document>
+	<document id='18' freq='1' weghit='2.152'></document>
+</key>
+<key idf='5.322' name='kick' >
+	<document id='13' freq='1' weghit='5.322'></document>
+</key>
+<key idf='4.322' name='kid' >
+	<document id='11' freq='1' weghit='4.322'></document>
+	<document id='17' freq='1' weghit='4.322'></document>
+</key>
+<key idf='5.322' name='kind' >
+	<document id='18' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='kinda' >
+	<document id='19' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='kindest' >
+	<document id='17' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='kingdom' >
+	<document id='12' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='kingom' >
+	<document id='17' freq='2' weghit='10.644'></document>
+</key>
+<key idf='5.322' name='knee' >
+	<document id='18' freq='3' weghit='15.966'></document>
+</key>
+<key idf='4.322' name='knew' >
+	<document id='2' freq='1' weghit='4.322'></document>
+	<document id='9' freq='1' weghit='4.322'></document>
+</key>
+<key idf='1.515' name='know' >
+	<document id='0' freq='3' weghit='4.545'></document>
+	<document id='2' freq='2' weghit='3.03'></document>
+	<document id='4' freq='1' weghit='1.515'></document>
+	<document id='5' freq='1' weghit='1.515'></document>
+	<document id='6' freq='2' weghit='3.03'></document>
+	<document id='7' freq='1' weghit='1.515'></document>
+	<document id='8' freq='2' weghit='3.03'></document>
+	<document id='9' freq='6' weghit='9.09'></document>
+	<document id='12' freq='3' weghit='4.545'></document>
+	<document id='13' freq='2' weghit='3.03'></document>
+	<document id='15' freq='1' weghit='1.515'></document>
+	<document id='17' freq='1' weghit='1.515'></document>
+	<document id='18' freq='4' weghit='6.06'></document>
+	<document id='19' freq='1' weghit='1.515'></document>
+</key>
+<key idf='4.322' name='known' >
+	<document id='4' freq='1' weghit='4.322'></document>
+	<document id='14' freq='1' weghit='4.322'></document>
+</key>
+<key idf='5.322' name='la' >
+	<document id='13' freq='2' weghit='10.644'></document>
+</key>
+<key idf='5.322' name='laaaa' >
+	<document id='13' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='lack' >
+	<document id='15' freq='2' weghit='10.644'></document>
+</key>
+<key idf='5.322' name='lalala' >
+	<document id='13' freq='1' weghit='5.322'></document>
+</key>
+<key idf='4.322' name='land' >
+	<document id='17' freq='3' weghit='12.966'></document>
+	<document id='18' freq='1' weghit='4.322'></document>
+</key>
+<key idf='5.322' name='last' >
+	<document id='4' freq='6' weghit='31.932'></document>
+</key>
+<key idf='3.737' name='laugh' >
+	<document id='2' freq='1' weghit='3.737'></document>
+	<document id='9' freq='1' weghit='3.737'></document>
+	<document id='18' freq='1' weghit='3.737'></document>
+</key>
+<key idf='5.322' name='law' >
+	<document id='8' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='lead' >
+	<document id='2' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='learnin' >
+	<document id='0' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='leg' >
+	<document id='15' freq='1' weghit='5.322'></document>
+</key>
+<key idf='2.322' name='let' >
+	<document id='2' freq='2' weghit='4.644'></document>
+	<document id='6' freq='5' weghit='11.61'></document>
+	<document id='7' freq='2' weghit='4.644'></document>
+	<document id='9' freq='5' weghit='11.61'></document>
+	<document id='10' freq='2' weghit='4.644'></document>
+	<document id='12' freq='18' weghit='41.796'></document>
+	<document id='13' freq='4' weghit='9.288'></document>
+	<document id='16' freq='2' weghit='4.644'></document>
+</key>
+<key idf='5.322' name='lettin' >
+	<document id='11' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='li' >
+	<document id='5' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='lie' >
+	<document id='19' freq='1' weghit='5.322'></document>
+</key>
+<key idf='2.515' name='life' >
+	<document id='5' freq='1' weghit='2.515'></document>
+	<document id='6' freq='1' weghit='2.515'></document>
+	<document id='9' freq='1' weghit='2.515'></document>
+	<document id='11' freq='1' weghit='2.515'></document>
+	<document id='13' freq='9' weghit='22.635'></document>
+	<document id='14' freq='3' weghit='7.545'></document>
+	<document id='19' freq='1' weghit='2.515'></document>
+</key>
+<key idf='2.737' name='light' >
+	<document id='2' freq='1' weghit='2.737'></document>
+	<document id='4' freq='1' weghit='2.737'></document>
+	<document id='5' freq='1' weghit='2.737'></document>
+	<document id='6' freq='4' weghit='10.948'></document>
+	<document id='9' freq='1' weghit='2.737'></document>
+	<document id='12' freq='1' weghit='2.737'></document>
+</key>
+<key idf='1.515' name='like' >
+	<document id='1' freq='1' weghit='1.515'></document>
+	<document id='3' freq='1' weghit='1.515'></document>
+	<document id='4' freq='5' weghit='7.575'></document>
+	<document id='5' freq='1' weghit='1.515'></document>
+	<document id='7' freq='1' weghit='1.515'></document>
+	<document id='8' freq='2' weghit='3.03'></document>
+	<document id='9' freq='1' weghit='1.515'></document>
+	<document id='11' freq='3' weghit='4.545'></document>
+	<document id='12' freq='4' weghit='6.06'></document>
+	<document id='13' freq='5' weghit='7.575'></document>
+	<document id='14' freq='3' weghit='4.545'></document>
+	<document id='15' freq='3' weghit='4.545'></document>
+	<document id='18' freq='1' weghit='1.515'></document>
+	<document id='19' freq='3' weghit='4.545'></document>
+</key>
+<key idf='5.322' name='limit' >
+	<document id='12' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='line' >
+	<document id='2' freq='3' weghit='15.966'></document>
+</key>
+<key idf='5.322' name='listen' >
+	<document id='13' freq='1' weghit='5.322'></document>
+</key>
+<key idf='3.0' name='littl' >
+	<document id='7' freq='1' weghit='3.0'></document>
+	<document id='8' freq='4' weghit='12.0'></document>
+	<document id='15' freq='1' weghit='3.0'></document>
+	<document id='17' freq='1' weghit='3.0'></document>
+	<document id='18' freq='1' weghit='3.0'></document>
+</key>
+<key idf='4.322' name='live' >
+	<document id='4' freq='1' weghit='4.322'></document>
+	<document id='9' freq='1' weghit='4.322'></document>
+</key>
+<key idf='5.322' name='livin' >
+	<document id='0' freq='1' weghit='5.322'></document>
+</key>
+<key idf='2.0' name='ll' >
+	<document id='2' freq='7' weghit='14.0'></document>
+	<document id='4' freq='4' weghit='8.0'></document>
+	<document id='8' freq='3' weghit='6.0'></document>
+	<document id='9' freq='7' weghit='14.0'></document>
+	<document id='11' freq='7' weghit='14.0'></document>
+	<document id='12' freq='3' weghit='6.0'></document>
+	<document id='13' freq='3' weghit='6.0'></document>
+	<document id='15' freq='3' weghit='6.0'></document>
+	<document id='18' freq='5' weghit='10.0'></document>
+	<document id='19' freq='1' weghit='2.0'></document>
+</key>
+<key idf='4.322' name='lone' >
+	<document id='7' freq='1' weghit='4.322'></document>
+	<document id='9' freq='1' weghit='4.322'></document>
+</key>
+<key idf='3.737' name='long' >
+	<document id='2' freq='7' weghit='26.159'></document>
+	<document id='13' freq='2' weghit='7.474'></document>
+	<document id='18' freq='2' weghit='7.474'></document>
+</key>
+<key idf='3.737' name='look' >
+	<document id='2' freq='1' weghit='3.737'></document>
+	<document id='12' freq='1' weghit='3.737'></document>
+	<document id='17' freq='1' weghit='3.737'></document>
+</key>
+<key idf='5.322' name='lookin' >
+	<document id='1' freq='2' weghit='10.644'></document>
+</key>
+<key idf='4.322' name='lose' >
+	<document id='6' freq='11' weghit='47.542'></document>
+	<document id='15' freq='1' weghit='4.322'></document>
+</key>
+<key idf='5.322' name='lost' >
+	<document id='2' freq='2' weghit='10.644'></document>
+</key>
+<key idf='5.322' name='lot' >
+	<document id='18' freq='1' weghit='5.322'></document>
+</key>
+<key idf='1.515' name='love' >
+	<document id='0' freq='2' weghit='3.03'></document>
+	<document id='1' freq='1' weghit='1.515'></document>
+	<document id='2' freq='3' weghit='4.545'></document>
+	<document id='4' freq='6' weghit='9.09'></document>
+	<document id='6' freq='1' weghit='1.515'></document>
+	<document id='8' freq='15' weghit='22.725'></document>
+	<document id='9' freq='1' weghit='1.515'></document>
+	<document id='10' freq='2' weghit='3.03'></document>
+	<document id='13' freq='1' weghit='1.515'></document>
+	<document id='14' freq='8' weghit='12.12'></document>
+	<document id='15' freq='1' weghit='1.515'></document>
+	<document id='17' freq='1' weghit='1.515'></document>
+	<document id='18' freq='1' weghit='1.515'></document>
+	<document id='19' freq='1' weghit='1.515'></document>
+</key>
+<key idf='5.322' name='loveal' >
+	<document id='0' freq='1' weghit='5.322'></document>
+</key>
+<key idf='4.322' name='low' >
+	<document id='3' freq='16' weghit='69.152'></document>
+	<document id='6' freq='2' weghit='8.644'></document>
+</key>
+<key idf='5.322' name='ly' >
+	<document id='11' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='mad' >
+	<document id='8' freq='1' weghit='5.322'></document>
+</key>
+<key idf='3.322' name='magic' >
+	<document id='9' freq='1' weghit='3.322'></document>
+	<document id='10' freq='1' weghit='3.322'></document>
+	<document id='15' freq='1' weghit='3.322'></document>
+	<document id='18' freq='1' weghit='3.322'></document>
+</key>
+<key idf='2.322' name='make' >
+	<document id='3' freq='1' weghit='2.322'></document>
+	<document id='8' freq='1' weghit='2.322'></document>
+	<document id='9' freq='1' weghit='2.322'></document>
+	<document id='11' freq='1' weghit='2.322'></document>
+	<document id='12' freq='1' weghit='2.322'></document>
+	<document id='13' freq='1' weghit='2.322'></document>
+	<document id='15' freq='2' weghit='4.644'></document>
+	<document id='19' freq='1' weghit='2.322'></document>
+</key>
+<key idf='5.322' name='male' >
+	<document id='8' freq='1' weghit='5.322'></document>
+</key>
+<key idf='4.322' name='man' >
+	<document id='1' freq='1' weghit='4.322'></document>
+	<document id='8' freq='1' weghit='4.322'></document>
+</key>
+<key idf='5.322' name='mani' >
+	<document id='0' freq='1' weghit='5.322'></document>
+</key>
+<key idf='3.322' name='marri' >
+	<document id='4' freq='1' weghit='3.322'></document>
+	<document id='8' freq='1' weghit='3.322'></document>
+	<document id='13' freq='1' weghit='3.322'></document>
+	<document id='14' freq='1' weghit='3.322'></document>
+</key>
+<key idf='5.322' name='masteri' >
+	<document id='13' freq='1' weghit='5.322'></document>
+</key>
+<key idf='4.322' name='matter' >
+	<document id='3' freq='3' weghit='12.966'></document>
+	<document id='5' freq='1' weghit='4.322'></document>
+</key>
+<key idf='3.0' name='mayb' >
+	<document id='0' freq='1' weghit='3.0'></document>
+	<document id='13' freq='1' weghit='3.0'></document>
+	<document id='14' freq='1' weghit='3.0'></document>
+	<document id='15' freq='4' weghit='12.0'></document>
+	<document id='18' freq='1' weghit='3.0'></document>
+</key>
+<key idf='5.322' name='me' >
+	<document id='18' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='meal' >
+	<document id='0' freq='1' weghit='5.322'></document>
+</key>
+<key idf='4.322' name='mean' >
+	<document id='14' freq='1' weghit='4.322'></document>
+	<document id='15' freq='1' weghit='4.322'></document>
+</key>
+<key idf='5.322' name='meant' >
+	<document id='14' freq='1' weghit='5.322'></document>
+</key>
+<key idf='3.737' name='meet' >
+	<document id='3' freq='1' weghit='3.737'></document>
+	<document id='8' freq='1' weghit='3.737'></document>
+	<document id='9' freq='2' weghit='7.474'></document>
+</key>
+<key idf='4.322' name='memori' >
+	<document id='2' freq='1' weghit='4.322'></document>
+	<document id='4' freq='1' weghit='4.322'></document>
+</key>
+<key idf='5.322' name='men' >
+	<document id='10' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='mental' >
+	<document id='14' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='mention' >
+	<document id='18' freq='1' weghit='5.322'></document>
+</key>
+<key idf='4.322' name='met' >
+	<document id='9' freq='1' weghit='4.322'></document>
+	<document id='14' freq='1' weghit='4.322'></document>
+</key>
+<key idf='5.322' name='metaphor' >
+	<document id='15' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='mile' >
+	<document id='3' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='milk' >
+	<document id='18' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='million' >
+	<document id='3' freq='1' weghit='5.322'></document>
+</key>
+<key idf='3.737' name='mind' >
+	<document id='1' freq='2' weghit='7.474'></document>
+	<document id='4' freq='4' weghit='14.948'></document>
+	<document id='18' freq='1' weghit='3.737'></document>
+</key>
+<key idf='5.322' name='mine' >
+	<document id='10' freq='2' weghit='10.644'></document>
+</key>
+<key idf='5.322' name='minor' >
+	<document id='8' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='minut' >
+	<document id='13' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='miss' >
+	<document id='13' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='mistak' >
+	<document id='4' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='model' >
+	<document id='17' freq='1' weghit='5.322'></document>
+</key>
+<key idf='4.322' name='mother' >
+	<document id='5' freq='1' weghit='4.322'></document>
+	<document id='17' freq='1' weghit='4.322'></document>
+</key>
+<key idf='4.322' name='mountain' >
+	<document id='10' freq='2' weghit='8.644'></document>
+	<document id='12' freq='1' weghit='4.322'></document>
+</key>
+<key idf='5.322' name='movin' >
+	<document id='1' freq='1' weghit='5.322'></document>
+</key>
+<key idf='4.322' name='music' >
+	<document id='1' freq='1' weghit='4.322'></document>
+	<document id='9' freq='1' weghit='4.322'></document>
+</key>
+<key idf='3.737' name='myself' >
+	<document id='0' freq='2' weghit='7.474'></document>
+	<document id='1' freq='1' weghit='3.737'></document>
+	<document id='3' freq='1' weghit='3.737'></document>
+</key>
+<key idf='5.322' name='nanni' >
+	<document id='18' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='narror' >
+	<document id='17' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='natur' >
+	<document id='8' freq='1' weghit='5.322'></document>
+</key>
+<key idf='3.0' name='need' >
+	<document id='0' freq='1' weghit='3.0'></document>
+	<document id='6' freq='1' weghit='3.0'></document>
+	<document id='8' freq='1' weghit='3.0'></document>
+	<document id='15' freq='1' weghit='3.0'></document>
+	<document id='17' freq='1' weghit='3.0'></document>
+</key>
+<key idf='5.322' name='neil' >
+	<document id='17' freq='1' weghit='5.322'></document>
+</key>
+<key idf='3.737' name='night' >
+	<document id='9' freq='1' weghit='3.737'></document>
+	<document id='12' freq='1' weghit='3.737'></document>
+	<document id='16' freq='2' weghit='7.474'></document>
+</key>
+<key idf='5.322' name='nope' >
+	<document id='11' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='norberg' >
+	<document id='17' freq='1' weghit='5.322'></document>
+</key>
+<key idf='4.322' name='nose' >
+	<document id='18' freq='1' weghit='4.322'></document>
+	<document id='19' freq='1' weghit='4.322'></document>
+</key>
+<key idf='5.322' name='notic' >
+	<document id='9' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='odor' >
+	<document id='17' freq='1' weghit='5.322'></document>
+</key>
+<key idf='2.737' name='oh' >
+	<document id='0' freq='1' weghit='2.737'></document>
+	<document id='2' freq='22' weghit='60.214'></document>
+	<document id='6' freq='1' weghit='2.737'></document>
+	<document id='11' freq='1' weghit='2.737'></document>
+	<document id='13' freq='1' weghit='2.737'></document>
+	<document id='19' freq='1' weghit='2.737'></document>
+</key>
+<key idf='3.737' name='okai' >
+	<document id='8' freq='1' weghit='3.737'></document>
+	<document id='13' freq='2' weghit='7.474'></document>
+	<document id='14' freq='1' weghit='3.737'></document>
+</key>
+<key idf='4.322' name='old' >
+	<document id='4' freq='1' weghit='4.322'></document>
+	<document id='15' freq='1' weghit='4.322'></document>
+</key>
+<key idf='5.322' name='on' >
+	<document id='1' freq='1' weghit='5.322'></document>
+</key>
+<key idf='4.322' name='ooh' >
+	<document id='0' freq='1' weghit='4.322'></document>
+	<document id='9' freq='1' weghit='4.322'></document>
+</key>
+<key idf='5.322' name='oop' >
+	<document id='15' freq='1' weghit='5.322'></document>
+</key>
+<key idf='3.737' name='open' >
+	<document id='9' freq='2' weghit='7.474'></document>
+	<document id='14' freq='7' weghit='26.159'></document>
+	<document id='19' freq='1' weghit='3.737'></document>
+</key>
+<key idf='5.322' name='opn' >
+	<document id='9' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='other' >
+	<document id='19' freq='1' weghit='5.322'></document>
+</key>
+<key idf='4.322' name='outsid' >
+	<document id='3' freq='5' weghit='21.61'></document>
+	<document id='8' freq='1' weghit='4.322'></document>
+</key>
+<key idf='5.322' name='overdu' >
+	<document id='7' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='overweight' >
+	<document id='0' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='ow' >
+	<document id='1' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='own' >
+	<document id='9' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='page' >
+	<document id='13' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='pageant' >
+	<document id='17' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='pai' >
+	<document id='2' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='pain' >
+	<document id='14' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='palestin' >
+	<document id='5' freq='2' weghit='10.644'></document>
+</key>
+<key idf='4.322' name='parti' >
+	<document id='1' freq='1' weghit='4.322'></document>
+	<document id='14' freq='1' weghit='4.322'></document>
+</key>
+<key idf='5.322' name='pass' >
+	<document id='17' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='past' >
+	<document id='12' freq='2' weghit='10.644'></document>
+</key>
+<key idf='5.322' name='pastw' >
+	<document id='14' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='path' >
+	<document id='2' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='pe' >
+	<document id='18' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='pear' >
+	<document id='8' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='peculiar' >
+	<document id='8' freq='1' weghit='5.322'></document>
+</key>
+<key idf='2.322' name='peopl' >
+	<document id='0' freq='1' weghit='2.322'></document>
+	<document id='7' freq='1' weghit='2.322'></document>
+	<document id='8' freq='2' weghit='4.644'></document>
+	<document id='9' freq='1' weghit='2.322'></document>
+	<document id='13' freq='1' weghit='2.322'></document>
+	<document id='16' freq='3' weghit='6.966'></document>
+	<document id='18' freq='1' weghit='2.322'></document>
+	<document id='19' freq='3' weghit='6.966'></document>
+</key>
+<key idf='5.322' name='percent' >
+	<document id='13' freq='1' weghit='5.322'></document>
+</key>
+<key idf='3.322' name='perfect' >
+	<document id='12' freq='1' weghit='3.322'></document>
+	<document id='15' freq='1' weghit='3.322'></document>
+	<document id='17' freq='1' weghit='3.322'></document>
+	<document id='19' freq='1' weghit='3.322'></document>
+</key>
+<key idf='5.322' name='perish' >
+	<document id='17' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='phew' >
+	<document id='17' freq='1' weghit='5.322'></document>
+</key>
+<key idf='3.737' name='pictur' >
+	<document id='2' freq='1' weghit='3.737'></document>
+	<document id='7' freq='1' weghit='3.737'></document>
+	<document id='9' freq='1' weghit='3.737'></document>
+</key>
+<key idf='5.322' name='pilin' >
+	<document id='1' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='pink' >
+	<document id='18' freq='1' weghit='5.322'></document>
+</key>
+<key idf='3.0' name='place' >
+	<document id='2' freq='2' weghit='6.0'></document>
+	<document id='13' freq='2' weghit='6.0'></document>
+	<document id='14' freq='2' weghit='6.0'></document>
+	<document id='15' freq='1' weghit='3.0'></document>
+	<document id='18' freq='1' weghit='3.0'></document>
+</key>
+<key idf='3.737' name='plai' >
+	<document id='7' freq='1' weghit='3.737'></document>
+	<document id='15' freq='1' weghit='3.737'></document>
+	<document id='17' freq='1' weghit='3.737'></document>
+</key>
+<key idf='5.322' name='plan' >
+	<document id='13' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='plane' >
+	<document id='2' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='plate' >
+	<document id='9' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='pleasent' >
+	<document id='17' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='plu' >
+	<document id='17' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='poet' >
+	<document id='15' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='pois' >
+	<document id='18' freq='1' weghit='5.322'></document>
+</key>
+<key idf='3.737' name='power' >
+	<document id='8' freq='1' weghit='3.737'></document>
+	<document id='10' freq='1' weghit='3.737'></document>
+	<document id='12' freq='1' weghit='3.737'></document>
+</key>
+<key idf='5.322' name='preciou' >
+	<document id='5' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='prefer' >
+	<document id='19' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='pregnant' >
+	<document id='0' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='present' >
+	<document id='17' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='pretti' >
+	<document id='18' freq='1' weghit='5.322'></document>
+</key>
+<key idf='4.322' name='princess' >
+	<document id='17' freq='1' weghit='4.322'></document>
+	<document id='18' freq='10' weghit='43.22'></document>
+</key>
+<key idf='5.322' name='prob' >
+	<document id='11' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='problem' >
+	<document id='8' freq='1' weghit='5.322'></document>
+</key>
+<key idf='4.322' name='propheci' >
+	<document id='13' freq='3' weghit='12.966'></document>
+	<document id='17' freq='3' weghit='12.966'></document>
+</key>
+<key idf='4.322' name='push' >
+	<document id='8' freq='1' weghit='4.322'></document>
+	<document id='19' freq='1' weghit='4.322'></document>
+</key>
+<key idf='3.0' name='queen' >
+	<document id='12' freq='1' weghit='3.0'></document>
+	<document id='13' freq='1' weghit='3.0'></document>
+	<document id='15' freq='1' weghit='3.0'></document>
+	<document id='17' freq='1' weghit='3.0'></document>
+	<document id='18' freq='1' weghit='3.0'></document>
+</key>
+<key idf='5.322' name='quiet' >
+	<document id='17' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='quot' >
+	<document id='8' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='radio' >
+	<document id='1' freq='2' weghit='10.644'></document>
+</key>
+<key idf='5.322' name='rage' >
+	<document id='12' freq='3' weghit='15.966'></document>
+</key>
+<key idf='4.322' name='rain' >
+	<document id='5' freq='1' weghit='4.322'></document>
+	<document id='10' freq='2' weghit='8.644'></document>
+</key>
+<key idf='4.322' name='rais' >
+	<document id='4' freq='1' weghit='4.322'></document>
+	<document id='8' freq='1' weghit='4.322'></document>
+</key>
+<key idf='5.322' name='ratdadat' >
+	<document id='11' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='reach' >
+	<document id='2' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='readi' >
+	<document id='9' freq='1' weghit='5.322'></document>
+</key>
+<key idf='3.0' name='real' >
+	<document id='6' freq='1' weghit='3.0'></document>
+	<document id='8' freq='1' weghit='3.0'></document>
+	<document id='9' freq='1' weghit='3.0'></document>
+	<document id='13' freq='1' weghit='3.0'></document>
+	<document id='19' freq='1' weghit='3.0'></document>
+</key>
+<key idf='3.322' name='realli' >
+	<document id='8' freq='1' weghit='3.322'></document>
+	<document id='11' freq='1' weghit='3.322'></document>
+	<document id='15' freq='1' weghit='3.322'></document>
+	<document id='17' freq='1' weghit='3.322'></document>
+</key>
+<key idf='5.322' name='reason' >
+	<document id='0' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='reckless' >
+	<document id='13' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='regret' >
+	<document id='4' freq='1' weghit='5.322'></document>
+</key>
+<key idf='4.322' name='reindeer' >
+	<document id='8' freq='1' weghit='4.322'></document>
+	<document id='16' freq='2' weghit='8.644'></document>
+</key>
+<key idf='5.322' name='relax' >
+	<document id='11' freq='1' weghit='5.322'></document>
+</key>
+<key idf='4.322' name='rememb' >
+	<document id='2' freq='2' weghit='8.644'></document>
+	<document id='4' freq='4' weghit='17.288'></document>
+</key>
+<key idf='5.322' name='remind' >
+	<document id='4' freq='2' weghit='10.644'></document>
+</key>
+<key idf='5.322' name='report' >
+	<document id='13' freq='1' weghit='5.322'></document>
+</key>
+<key idf='4.322' name='ride' >
+	<document id='2' freq='2' weghit='8.644'></document>
+	<document id='7' freq='1' weghit='4.322'></document>
+</key>
+<key idf='2.515' name='right' >
+	<document id='2' freq='1' weghit='2.515'></document>
+	<document id='5' freq='1' weghit='2.515'></document>
+	<document id='7' freq='1' weghit='2.515'></document>
+	<document id='12' freq='1' weghit='2.515'></document>
+	<document id='13' freq='1' weghit='2.515'></document>
+	<document id='16' freq='1' weghit='2.515'></document>
+	<document id='18' freq='1' weghit='2.515'></document>
+</key>
+<key idf='4.322' name='ring' >
+	<document id='8' freq='1' weghit='4.322'></document>
+	<document id='17' freq='2' weghit='8.644'></document>
+</key>
+<key idf='5.322' name='rise' >
+	<document id='12' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='road' >
+	<document id='2' freq='2' weghit='10.644'></document>
+</key>
+<key idf='5.322' name='roam' >
+	<document id='9' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='rocket' >
+	<document id='5' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='role' >
+	<document id='17' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='romanc' >
+	<document id='9' freq='1' weghit='5.322'></document>
+</key>
+<key idf='4.322' name='room' >
+	<document id='7' freq='1' weghit='4.322'></document>
+	<document id='13' freq='1' weghit='4.322'></document>
+</key>
+<key idf='5.322' name='rough' >
+	<document id='11' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='round' >
+	<document id='8' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='rule' >
+	<document id='12' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='ruler' >
+	<document id='17' freq='1' weghit='5.322'></document>
+</key>
+<key idf='3.322' name='run' >
+	<document id='3' freq='1' weghit='3.322'></document>
+	<document id='8' freq='1' weghit='3.322'></document>
+	<document id='13' freq='1' weghit='3.322'></document>
+	<document id='15' freq='1' weghit='3.322'></document>
+</key>
+<key idf='5.322' name='rusti' >
+	<document id='15' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='sacrafic' >
+	<document id='17' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='sacrific' >
+	<document id='17' freq='1' weghit='5.322'></document>
+</key>
+<key idf='2.322' name='sai' >
+	<document id='3' freq='4' weghit='9.288'></document>
+	<document id='7' freq='1' weghit='2.322'></document>
+	<document id='8' freq='1' weghit='2.322'></document>
+	<document id='12' freq='1' weghit='2.322'></document>
+	<document id='14' freq='6' weghit='13.932'></document>
+	<document id='17' freq='1' weghit='2.322'></document>
+	<document id='18' freq='13' weghit='30.186'></document>
+	<document id='19' freq='2' weghit='4.644'></document>
+</key>
+<key idf='5.322' name='said' >
+	<document id='4' freq='4' weghit='21.288'></document>
+</key>
+<key idf='5.322' name='saiin' >
+	<document id='8' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='saiing' >
+	<document id='8' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='salad' >
+	<document id='9' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='sanctiti' >
+	<document id='5' freq='1' weghit='5.322'></document>
+</key>
+<key idf='4.322' name='sand' >
+	<document id='5' freq='1' weghit='4.322'></document>
+	<document id='11' freq='1' weghit='4.322'></document>
+</key>
+<key idf='5.322' name='sandwich' >
+	<document id='14' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='saw' >
+	<document id='5' freq='1' weghit='5.322'></document>
+</key>
+<key idf='4.322' name='scare' >
+	<document id='5' freq='1' weghit='4.322'></document>
+	<document id='8' freq='2' weghit='8.644'></document>
+</key>
+<key idf='5.322' name='scolar' >
+	<document id='15' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='scr' >
+	<document id='18' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='screw' >
+	<document id='15' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='search' >
+	<document id='14' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='second' >
+	<document id='15' freq='1' weghit='5.322'></document>
+</key>
+<key idf='4.322' name='secret' >
+	<document id='3' freq='1' weghit='4.322'></document>
+	<document id='13' freq='1' weghit='4.322'></document>
+</key>
+<key idf='5.322' name='see' >
+	<document id='13' freq='1' weghit='5.322'></document>
+</key>
+<key idf='4.322' name='seen' >
+	<document id='12' freq='1' weghit='4.322'></document>
+	<document id='17' freq='1' weghit='4.322'></document>
+</key>
+<key idf='4.322' name='sens' >
+	<document id='11' freq='1' weghit='4.322'></document>
+	<document id='15' freq='1' weghit='4.322'></document>
+</key>
+<key idf='5.322' name='sensit' >
+	<document id='8' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='seri' >
+	<document id='14' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='settl' >
+	<document id='4' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='shall' >
+	<document id='17' freq='2' weghit='10.644'></document>
+</key>
+<key idf='5.322' name='shannanigan' >
+	<document id='17' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='shape' >
+	<document id='8' freq='2' weghit='10.644'></document>
+</key>
+<key idf='5.322' name='share' >
+	<document id='15' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='sharp' >
+	<document id='10' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='sheeba' >
+	<document id='1' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='sheer' >
+	<document id='10' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='sheet' >
+	<document id='6' freq='3' weghit='15.966'></document>
+</key>
+<key idf='4.322' name='shine' >
+	<document id='5' freq='1' weghit='4.322'></document>
+	<document id='17' freq='2' weghit='8.644'></document>
+</key>
+<key idf='5.322' name='short' >
+	<document id='13' freq='9' weghit='47.898'></document>
+</key>
+<key idf='5.322' name='shouldn' >
+	<document id='18' freq='1' weghit='5.322'></document>
+</key>
+<key idf='3.737' name='shove' >
+	<document id='8' freq='1' weghit='3.737'></document>
+	<document id='13' freq='1' weghit='3.737'></document>
+	<document id='19' freq='1' weghit='3.737'></document>
+</key>
+<key idf='5.322' name='show' >
+	<document id='13' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='shut' >
+	<document id='13' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='shy' >
+	<document id='4' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='si' >
+	<document id='13' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='side' >
+	<document id='3' freq='2' weghit='10.644'></document>
+</key>
+<key idf='5.322' name='sill' >
+	<document id='17' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='singl' >
+	<document id='6' freq='4' weghit='21.288'></document>
+</key>
+<key idf='3.737' name='sister' >
+	<document id='8' freq='1' weghit='3.737'></document>
+	<document id='15' freq='1' weghit='3.737'></document>
+	<document id='18' freq='1' weghit='3.737'></document>
+</key>
+<key idf='5.322' name='sit' >
+	<document id='1' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='siter' >
+	<document id='13' freq='2' weghit='10.644'></document>
+</key>
+<key idf='5.322' name='siterly' >
+	<document id='13' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='skinni' >
+	<document id='0' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='skip' >
+	<document id='19' freq='1' weghit='5.322'></document>
+</key>
+<key idf='3.322' name='sky' >
+	<document id='5' freq='1' weghit='3.322'></document>
+	<document id='11' freq='1' weghit='3.322'></document>
+	<document id='12' freq='1' weghit='3.322'></document>
+	<document id='15' freq='1' weghit='3.322'></document>
+</key>
+<key idf='4.322' name='slam' >
+	<document id='12' freq='1' weghit='4.322'></document>
+	<document id='13' freq='1' weghit='4.322'></document>
+</key>
+<key idf='5.322' name='sleep' >
+	<document id='6' freq='5' weghit='26.61'></document>
+</key>
+<key idf='3.737' name='small' >
+	<document id='2' freq='1' weghit='3.737'></document>
+	<document id='8' freq='1' weghit='3.737'></document>
+	<document id='12' freq='1' weghit='3.737'></document>
+</key>
+<key idf='5.322' name='smartest' >
+	<document id='17' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='smell' >
+	<document id='16' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='smelli' >
+	<document id='8' freq='1' weghit='5.322'></document>
+</key>
+<key idf='4.322' name='smile' >
+	<document id='0' freq='1' weghit='4.322'></document>
+	<document id='19' freq='1' weghit='4.322'></document>
+</key>
+<key idf='5.322' name='snap' >
+	<document id='18' freq='2' weghit='10.644'></document>
+</key>
+<key idf='5.322' name='snore' >
+	<document id='18' freq='1' weghit='5.322'></document>
+</key>
+<key idf='3.322' name='snow' >
+	<document id='11' freq='2' weghit='6.644'></document>
+	<document id='12' freq='1' weghit='3.322'></document>
+	<document id='13' freq='1' weghit='3.322'></document>
+	<document id='17' freq='1' weghit='3.322'></document>
+</key>
+<key idf='4.322' name='snowman' >
+	<document id='7' freq='5' weghit='21.61'></document>
+	<document id='11' freq='1' weghit='4.322'></document>
+</key>
+<key idf='5.322' name='social' >
+	<document id='8' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='solid' >
+	<document id='11' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='somebodi' >
+	<document id='15' freq='2' weghit='10.644'></document>
+</key>
+<key idf='4.322' name='somedai' >
+	<document id='15' freq='1' weghit='4.322'></document>
+	<document id='18' freq='1' weghit='4.322'></document>
+</key>
+<key idf='5.322' name='somethin' >
+	<document id='1' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='soon' >
+	<document id='18' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='sooo' >
+	<document id='13' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='sophist' >
+	<document id='9' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='sorri' >
+	<document id='3' freq='7' weghit='37.254'></document>
+</key>
+<key idf='5.322' name='sort' >
+	<document id='8' freq='1' weghit='5.322'></document>
+</key>
+<key idf='4.322' name='soul' >
+	<document id='5' freq='1' weghit='4.322'></document>
+	<document id='12' freq='1' weghit='4.322'></document>
+</key>
+<key idf='5.322' name='spare' >
+	<document id='15' freq='5' weghit='26.61'></document>
+</key>
+<key idf='5.322' name='speak' >
+	<document id='18' freq='1' weghit='5.322'></document>
+</key>
+<key idf='4.322' name='special' >
+	<document id='6' freq='3' weghit='12.966'></document>
+	<document id='17' freq='1' weghit='4.322'></document>
+</key>
+<key idf='5.322' name='spell' >
+	<document id='13' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='spent' >
+	<document id='1' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='spill' >
+	<document id='13' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='spiral' >
+	<document id='12' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='splinter' >
+	<document id='17' freq='2' weghit='10.644'></document>
+</key>
+<key idf='5.322' name='split' >
+	<document id='10' freq='2' weghit='10.644'></document>
+</key>
+<key idf='5.322' name='spoken' >
+	<document id='7' freq='1' weghit='5.322'></document>
+</key>
+<key idf='4.322' name='spring' >
+	<document id='0' freq='2' weghit='8.644'></document>
+	<document id='17' freq='6' weghit='25.932'></document>
+</key>
+<key idf='5.322' name='squar' >
+	<document id='8' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='stage' >
+	<document id='17' freq='1' weghit='5.322'></document>
+</key>
+<key idf='3.0' name='stai' >
+	<document id='4' freq='2' weghit='6.0'></document>
+	<document id='11' freq='1' weghit='3.0'></document>
+	<document id='12' freq='1' weghit='3.0'></document>
+	<document id='13' freq='1' weghit='3.0'></document>
+	<document id='19' freq='2' weghit='6.0'></document>
+</key>
+<key idf='3.737' name='stand' >
+	<document id='2' freq='3' weghit='11.211'></document>
+	<document id='9' freq='1' weghit='3.737'></document>
+	<document id='12' freq='2' weghit='7.474'></document>
+</key>
+<key idf='3.737' name='start' >
+	<document id='2' freq='1' weghit='3.737'></document>
+	<document id='7' freq='1' weghit='3.737'></document>
+	<document id='13' freq='1' weghit='3.737'></document>
+</key>
+<key idf='5.322' name='starvat' >
+	<document id='17' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='steam' >
+	<document id='11' freq='1' weghit='5.322'></document>
+</key>
+<key idf='4.322' name='step' >
+	<document id='10' freq='2' weghit='8.644'></document>
+	<document id='19' freq='1' weghit='4.322'></document>
+</key>
+<key idf='5.322' name='stolen' >
+	<document id='1' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='stone' >
+	<document id='5' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='stood' >
+	<document id='0' freq='1' weghit='5.322'></document>
+</key>
+<key idf='4.322' name='stop' >
+	<document id='8' freq='1' weghit='4.322'></document>
+	<document id='17' freq='2' weghit='8.644'></document>
+</key>
+<key idf='5.322' name='stori' >
+	<document id='13' freq='1' weghit='5.322'></document>
+</key>
+<key idf='4.322' name='storm' >
+	<document id='11' freq='1' weghit='4.322'></document>
+	<document id='12' freq='4' weghit='17.288'></document>
+</key>
+<key idf='4.322' name='strang' >
+	<document id='8' freq='1' weghit='4.322'></document>
+	<document id='9' freq='1' weghit='4.322'></document>
+</key>
+<key idf='5.322' name='stranger' >
+	<document id='13' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='strangr' >
+	<document id='9' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='stress' >
+	<document id='8' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='strike' >
+	<document id='10' freq='4' weghit='21.288'></document>
+</key>
+<key idf='5.322' name='strong' >
+	<document id='2' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='stronger' >
+	<document id='10' freq='3' weghit='15.966'></document>
+</key>
+<key idf='5.322' name='stuff' >
+	<document id='9' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='style' >
+	<document id='15' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='subject' >
+	<document id='17' freq='1' weghit='5.322'></document>
+</key>
+<key idf='4.322' name='suddenli' >
+	<document id='9' freq='1' weghit='4.322'></document>
+	<document id='14' freq='1' weghit='4.322'></document>
+</key>
+<key idf='4.322' name='summer' >
+	<document id='4' freq='1' weghit='4.322'></document>
+	<document id='11' freq='9' weghit='38.898'></document>
+</key>
+<key idf='3.737' name='sun' >
+	<document id='5' freq='1' weghit='3.737'></document>
+	<document id='11' freq='1' weghit='3.737'></document>
+	<document id='17' freq='2' weghit='7.474'></document>
+</key>
+<key idf='5.322' name='super' >
+	<document id='18' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='support' >
+	<document id='13' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='suppos' >
+	<document id='3' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='sure' >
+	<document id='19' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='surpris' >
+	<document id='4' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='sven' >
+	<document id='16' freq='2' weghit='10.644'></document>
+</key>
+<key idf='5.322' name='swear' >
+	<document id='13' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='sweat' >
+	<document id='18' freq='1' weghit='5.322'></document>
+</key>
+<key idf='4.322' name='sweet' >
+	<document id='8' freq='1' weghit='4.322'></document>
+	<document id='18' freq='1' weghit='4.322'></document>
+</key>
+<key idf='5.322' name='swirl' >
+	<document id='12' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='switch' >
+	<document id='2' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='sword' >
+	<document id='17' freq='2' weghit='10.644'></document>
+</key>
+<key idf='5.322' name='synchron' >
+	<document id='14' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='t' >
+	<document id='9' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='tact' >
+	<document id='13' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='take' >
+	<document id='13' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='takin' >
+	<document id='5' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='talent' >
+	<document id='15' freq='1' weghit='5.322'></document>
+</key>
+<key idf='2.515' name='talk' >
+	<document id='2' freq='3' weghit='7.545'></document>
+	<document id='3' freq='1' weghit='2.515'></document>
+	<document id='7' freq='1' weghit='2.515'></document>
+	<document id='8' freq='2' weghit='5.03'></document>
+	<document id='9' freq='1' weghit='2.515'></document>
+	<document id='14' freq='1' weghit='2.515'></document>
+	<document id='19' freq='1' weghit='2.515'></document>
+</key>
+<key idf='5.322' name='tall' >
+	<document id='9' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='tan' >
+	<document id='11' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='tast' >
+	<document id='4' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='tea' >
+	<document id='18' freq='1' weghit='5.322'></document>
+</key>
+<key idf='4.322' name='tear' >
+	<document id='3' freq='3' weghit='12.966'></document>
+	<document id='5' freq='1' weghit='4.322'></document>
+</key>
+<key idf='2.152' name='tell' >
+	<document id='1' freq='1' weghit='2.152'></document>
+	<document id='2' freq='7' weghit='15.064'></document>
+	<document id='3' freq='6' weghit='12.912'></document>
+	<document id='5' freq='1' weghit='2.152'></document>
+	<document id='7' freq='1' weghit='2.152'></document>
+	<document id='8' freq='1' weghit='2.152'></document>
+	<document id='9' freq='1' weghit='2.152'></document>
+	<document id='11' freq='1' weghit='2.152'></document>
+	<document id='18' freq='3' weghit='6.456'></document>
+</key>
+<key idf='5.322' name='test' >
+	<document id='12' freq='1' weghit='5.322'></document>
+</key>
+<key idf='4.322' name='thank' >
+	<document id='13' freq='1' weghit='4.322'></document>
+	<document id='17' freq='1' weghit='4.322'></document>
+</key>
+<key idf='5.322' name='thaw' >
+	<document id='13' freq='1' weghit='5.322'></document>
+</key>
+<key idf='4.322' name='the' >
+	<document id='9' freq='1' weghit='4.322'></document>
+	<document id='12' freq='1' weghit='4.322'></document>
+</key>
+<key idf='5.322' name='thei' >
+	<document id='5' freq='1' weghit='5.322'></document>
+</key>
+<key idf='2.152' name='thing' >
+	<document id='2' freq='2' weghit='4.304'></document>
+	<document id='4' freq='2' weghit='4.304'></document>
+	<document id='8' freq='3' weghit='6.456'></document>
+	<document id='11' freq='1' weghit='2.152'></document>
+	<document id='13' freq='1' weghit='2.152'></document>
+	<document id='14' freq='1' weghit='2.152'></document>
+	<document id='15' freq='3' weghit='6.456'></document>
+	<document id='18' freq='3' weghit='6.456'></document>
+	<document id='19' freq='1' weghit='2.152'></document>
+</key>
+<key idf='2.515' name='think' >
+	<document id='7' freq='1' weghit='2.515'></document>
+	<document id='11' freq='1' weghit='2.515'></document>
+	<document id='13' freq='1' weghit='2.515'></document>
+	<document id='14' freq='2' weghit='5.03'></document>
+	<document id='15' freq='1' weghit='2.515'></document>
+	<document id='16' freq='2' weghit='5.03'></document>
+	<document id='18' freq='1' weghit='2.515'></document>
+</key>
+<key idf='5.322' name='thought' >
+	<document id='12' freq='1' weghit='5.322'></document>
+</key>
+<key idf='4.322' name='thousand' >
+	<document id='3' freq='5' weghit='21.61'></document>
+	<document id='9' freq='1' weghit='4.322'></document>
+</key>
+<key idf='4.322' name='throw' >
+	<document id='1' freq='1' weghit='4.322'></document>
+	<document id='8' freq='2' weghit='8.644'></document>
+</key>
+<key idf='5.322' name='tick' >
+	<document id='7' freq='1' weghit='5.322'></document>
+</key>
+<key idf='2.737' name='time' >
+	<document id='3' freq='7' weghit='19.159'></document>
+	<document id='4' freq='2' weghit='5.474'></document>
+	<document id='9' freq='9' weghit='24.633'></document>
+	<document id='11' freq='1' weghit='2.737'></document>
+	<document id='12' freq='1' weghit='2.737'></document>
+	<document id='15' freq='1' weghit='2.737'></document>
+</key>
+<key idf='5.322' name='timeso' >
+	<document id='0' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='tinkl' >
+	<document id='8' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='tire' >
+	<document id='1' freq='1' weghit='5.322'></document>
+</key>
+<key idf='3.322' name='todai' >
+	<document id='0' freq='1' weghit='3.322'></document>
+	<document id='9' freq='3' weghit='9.966'></document>
+	<document id='13' freq='1' weghit='3.322'></document>
+	<document id='17' freq='1' weghit='3.322'></document>
+</key>
+<key idf='5.322' name='togeth' >
+	<document id='18' freq='2' weghit='10.644'></document>
+</key>
+<key idf='5.322' name='told' >
+	<document id='2' freq='1' weghit='5.322'></document>
+</key>
+<key idf='4.322' name='tomorrow' >
+	<document id='5' freq='3' weghit='12.966'></document>
+	<document id='9' freq='1' weghit='4.322'></document>
+</key>
+<key idf='5.322' name='tonight' >
+	<document id='9' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='total' >
+	<document id='9' freq='3' weghit='15.966'></document>
+</key>
+<key idf='4.322' name='touch' >
+	<document id='6' freq='3' weghit='12.966'></document>
+	<document id='15' freq='1' weghit='4.322'></document>
+</key>
+<key idf='4.322' name='town' >
+	<document id='3' freq='1' weghit='4.322'></document>
+	<document id='15' freq='1' weghit='4.322'></document>
+</key>
+<key idf='5.322' name='travel' >
+	<document id='18' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='treat' >
+	<document id='13' freq='2' weghit='10.644'></document>
+</key>
+<key idf='4.322' name='tree' >
+	<document id='0' freq='2' weghit='8.644'></document>
+	<document id='5' freq='1' weghit='4.322'></document>
+</key>
+<key idf='4.322' name='tri' >
+	<document id='3' freq='5' weghit='21.61'></document>
+	<document id='12' freq='1' weghit='4.322'></document>
+</key>
+<key idf='5.322' name='trip' >
+	<document id='19' freq='1' weghit='5.322'></document>
+</key>
+<key idf='4.322' name='troll' >
+	<document id='8' freq='3' weghit='12.966'></document>
+	<document id='17' freq='4' weghit='17.288'></document>
+</key>
+<key idf='5.322' name='troubl' >
+	<document id='18' freq='1' weghit='5.322'></document>
+</key>
+<key idf='2.737' name='true' >
+	<document id='4' freq='1' weghit='2.737'></document>
+	<document id='8' freq='9' weghit='24.633'></document>
+	<document id='9' freq='1' weghit='2.737'></document>
+	<document id='13' freq='1' weghit='2.737'></document>
+	<document id='16' freq='2' weghit='5.474'></document>
+	<document id='19' freq='1' weghit='2.737'></document>
+</key>
+<key idf='5.322' name='try' >
+	<document id='7' freq='1' weghit='5.322'></document>
+</key>
+<key idf='3.322' name='turn' >
+	<document id='2' freq='2' weghit='6.644'></document>
+	<document id='4' freq='2' weghit='6.644'></document>
+	<document id='6' freq='2' weghit='6.644'></document>
+	<document id='12' freq='1' weghit='3.322'></document>
+</key>
+<key idf='5.322' name='tutor' >
+	<document id='18' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='typic' >
+	<document id='3' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='uh' >
+	<document id='2' freq='4' weghit='21.288'></document>
+</key>
+<key idf='5.322' name='underpaid' >
+	<document id='0' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='understood' >
+	<document id='13' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='underwear' >
+	<document id='18' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='unend' >
+	<document id='17' freq='2' weghit='10.644'></document>
+</key>
+<key idf='5.322' name='unfair' >
+	<document id='13' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='uninvit' >
+	<document id='4' freq='2' weghit='10.644'></document>
+</key>
+<key idf='5.322' name='unless' >
+	<document id='17' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='unlov' >
+	<document id='13' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='unmanli' >
+	<document id='8' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='unshak' >
+	<document id='13' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='upper' >
+	<document id='8' freq='12' weghit='63.864'></document>
+</key>
+<key idf='5.322' name='upset' >
+	<document id='13' freq='1' weghit='5.322'></document>
+</key>
+<key idf='3.737' name='us' >
+	<document id='3' freq='1' weghit='3.737'></document>
+	<document id='7' freq='1' weghit='3.737'></document>
+	<document id='15' freq='1' weghit='3.737'></document>
+</key>
+<key idf='2.0' name='ve' >
+	<document id='1' freq='1' weghit='2.0'></document>
+	<document id='2' freq='4' weghit='8.0'></document>
+	<document id='3' freq='9' weghit='18.0'></document>
+	<document id='7' freq='3' weghit='6.0'></document>
+	<document id='8' freq='1' weghit='2.0'></document>
+	<document id='9' freq='3' weghit='6.0'></document>
+	<document id='12' freq='1' weghit='2.0'></document>
+	<document id='13' freq='4' weghit='8.0'></document>
+	<document id='14' freq='3' weghit='6.0'></document>
+	<document id='19' freq='1' weghit='2.0'></document>
+</key>
+<key idf='5.322' name='vibe' >
+	<document id='2' freq='1' weghit='5.322'></document>
+</key>
+<key idf='3.0' name='wai' >
+	<document id='2' freq='6' weghit='18.0'></document>
+	<document id='8' freq='9' weghit='27.0'></document>
+	<document id='9' freq='1' weghit='3.0'></document>
+	<document id='13' freq='2' weghit='6.0'></document>
+	<document id='19' freq='2' weghit='6.0'></document>
+</key>
+<key idf='3.322' name='wait' >
+	<document id='9' freq='3' weghit='9.966'></document>
+	<document id='11' freq='1' weghit='3.322'></document>
+	<document id='13' freq='1' weghit='3.322'></document>
+	<document id='15' freq='1' weghit='3.322'></document>
+</key>
+<key idf='4.322' name='walk' >
+	<document id='8' freq='1' weghit='4.322'></document>
+	<document id='19' freq='1' weghit='4.322'></document>
+</key>
+<key idf='4.322' name='wall' >
+	<document id='7' freq='1' weghit='4.322'></document>
+	<document id='9' freq='1' weghit='4.322'></document>
+</key>
+<key idf='4.322' name='wanna' >
+	<document id='7' freq='4' weghit='17.288'></document>
+	<document id='9' freq='1' weghit='4.322'></document>
+</key>
+<key idf='3.737' name='want' >
+	<document id='6' freq='3' weghit='11.211'></document>
+	<document id='13' freq='3' weghit='11.211'></document>
+	<document id='15' freq='1' weghit='3.737'></document>
+</key>
+<key idf='3.737' name='warm' >
+	<document id='11' freq='1' weghit='3.737'></document>
+	<document id='13' freq='1' weghit='3.737'></document>
+	<document id='17' freq='2' weghit='7.474'></document>
+</key>
+<key idf='5.322' name='wash' >
+	<document id='8' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='wasn' >
+	<document id='1' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='wast' >
+	<document id='13' freq='1' weghit='5.322'></document>
+</key>
+<key idf='3.737' name='watch' >
+	<document id='7' freq='1' weghit='3.737'></document>
+	<document id='10' freq='2' weghit='7.474'></document>
+	<document id='19' freq='1' weghit='3.737'></document>
+</key>
+<key idf='5.322' name='water' >
+	<document id='11' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='wear' >
+	<document id='18' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='weird' >
+	<document id='8' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='went' >
+	<document id='2' freq='2' weghit='10.644'></document>
+</key>
+<key idf='5.322' name='what' >
+	<document id='8' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='white' >
+	<document id='12' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='whoa' >
+	<document id='13' freq='2' weghit='10.644'></document>
+</key>
+<key idf='5.322' name='win' >
+	<document id='6' freq='4' weghit='21.288'></document>
+</key>
+<key idf='5.322' name='wind' >
+	<document id='12' freq='2' weghit='10.644'></document>
+</key>
+<key idf='5.322' name='window' >
+	<document id='9' freq='1' weghit='5.322'></document>
+</key>
+<key idf='3.737' name='winter' >
+	<document id='10' freq='2' weghit='7.474'></document>
+	<document id='11' freq='2' weghit='7.474'></document>
+	<document id='17' freq='5' weghit='18.685'></document>
+</key>
+<key idf='5.322' name='wipe' >
+	<document id='5' freq='1' weghit='5.322'></document>
+</key>
+<key idf='3.322' name='wish' >
+	<document id='4' freq='4' weghit='13.288'></document>
+	<document id='7' freq='1' weghit='3.322'></document>
+	<document id='15' freq='1' weghit='3.322'></document>
+	<document id='18' freq='1' weghit='3.322'></document>
+</key>
+<key idf='5.322' name='wohohooo' >
+	<document id='13' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='woken' >
+	<document id='1' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='woman' >
+	<document id='1' freq='1' weghit='5.322'></document>
+</key>
+<key idf='3.322' name='won' >
+	<document id='5' freq='2' weghit='6.644'></document>
+	<document id='9' freq='1' weghit='3.322'></document>
+	<document id='15' freq='1' weghit='3.322'></document>
+	<document id='17' freq='1' weghit='3.322'></document>
+</key>
+<key idf='5.322' name='wonder' >
+	<document id='3' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='wood' >
+	<document id='8' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='wooooh' >
+	<document id='2' freq='3' weghit='15.966'></document>
+</key>
+<key idf='4.322' name='work' >
+	<document id='2' freq='1' weghit='4.322'></document>
+	<document id='19' freq='1' weghit='4.322'></document>
+</key>
+<key idf='3.322' name='world' >
+	<document id='1' freq='2' weghit='6.644'></document>
+	<document id='3' freq='1' weghit='3.322'></document>
+	<document id='9' freq='1' weghit='3.322'></document>
+	<document id='18' freq='1' weghit='3.322'></document>
+</key>
+<key idf='5.322' name='worldtim' >
+	<document id='0' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='worri' >
+	<document id='4' freq='1' weghit='5.322'></document>
+</key>
+<key idf='4.322' name='worth' >
+	<document id='0' freq='3' weghit='12.966'></document>
+	<document id='10' freq='2' weghit='8.644'></document>
+</key>
+<key idf='4.322' name='wouldn' >
+	<document id='2' freq='1' weghit='4.322'></document>
+	<document id='18' freq='1' weghit='4.322'></document>
+</key>
+<key idf='4.322' name='wow' >
+	<document id='9' freq='1' weghit='4.322'></document>
+	<document id='13' freq='1' weghit='4.322'></document>
+</key>
+<key idf='5.322' name='wrap' >
+	<document id='6' freq='3' weghit='15.966'></document>
+</key>
+<key idf='3.737' name='wrong' >
+	<document id='9' freq='1' weghit='3.737'></document>
+	<document id='12' freq='1' weghit='3.737'></document>
+	<document id='13' freq='3' weghit='11.211'></document>
+</key>
+<key idf='4.322' name='ya' >
+	<document id='2' freq='2' weghit='8.644'></document>
+	<document id='3' freq='1' weghit='4.322'></document>
+</key>
+<key idf='5.322' name='ye' >
+	<document id='14' freq='1' weghit='5.322'></document>
+</key>
+<key idf='3.0' name='yeah' >
+	<document id='0' freq='2' weghit='6.0'></document>
+	<document id='2' freq='6' weghit='18.0'></document>
+	<document id='6' freq='7' weghit='21.0'></document>
+	<document id='16' freq='1' weghit='3.0'></document>
+	<document id='19' freq='1' weghit='3.0'></document>
+</key>
+<key idf='4.322' name='year' >
+	<document id='3' freq='1' weghit='4.322'></document>
+	<document id='9' freq='1' weghit='4.322'></document>
+</key>
+<key idf='5.322' name='yesterdai' >
+	<document id='4' freq='1' weghit='5.322'></document>
+</key>
+<key idf='3.0' name='you' >
+	<document id='2' freq='7' weghit='21.0'></document>
+	<document id='6' freq='3' weghit='9.0'></document>
+	<document id='13' freq='2' weghit='6.0'></document>
+	<document id='14' freq='4' weghit='12.0'></document>
+	<document id='19' freq='8' weghit='24.0'></document>
+</key>
+<key idf='5.322' name='younger' >
+	<document id='3' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='youwith' >
+	<document id='14' freq='1' weghit='5.322'></document>
+</key>
+<key idf='5.322' name='zone' >
+	<document id='9' freq='1' weghit='5.322'></document>
+</key>
+</file>
